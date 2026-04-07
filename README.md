@@ -11,7 +11,7 @@ Languages
 Tools & Platforms
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40"/>
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyahilOmb&layout=compact&theme=radical)
+![Top Langs](https://vercel.app)
 
 - 🔭 I’m currently working on Project Omega
 - 🌱 I’m currently learning: TypeScript , MongoDb 
