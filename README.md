@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sahil</h1>
 <p align="center">
-<img src="https://vercel.app" alt="Visitor Counter">
+![](https://getloli.com)
+![](https://seeyoufarm.com)
 </p>
 
 🚀 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
