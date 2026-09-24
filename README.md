@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi, I'm Sahil</h1>
 <p align="center">
-   ![](https://komarev.com)
+  ![Visitor Count](https://glitch.me)
+
    
 </p>
 
-🚀 Aspiring Full Stack Developer | Java • Spring Boot • Angular • AI Enthusiast
+🚀 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
 
 🎓 Computer Science Grad | Completed Full Stack Java Developer Course (3 months, project-based)
 
@@ -18,12 +19,12 @@ Tools & Platforms
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SyahilOmb&layout=compact&theme=radical)
 
 
-- 🔭 I’m currently working on Project Omega
-- 🌱 I’m currently learning: TypeScript , MongoDb 
+- 🔭 I’m currently working on .......
+- 🌱 I’m currently learning: React , MongoDb 
 - 👯 I’m looking to collaborate: Open Source Projects, Full Stack Development, AI-integrated Web Apps
 - 💬 Ask me about ...
 - 📫 How to reach me: sahilombale22@gmail.com , https://www.linkedin.com/in/sahil-ombale/
-- 💬 Ask me about: Full Stack Development, Java frameworks, Angular best practices, and AI integration.
+- 💬 Ask me about: Full Stack Development, Java frameworks, React practices, and AI integration.
 - ⚡ Fun fact: When I’m not coding, I’m exploring new tech trends or building side projects that challenge me.
 
 📊 **GitHub Stats**  
