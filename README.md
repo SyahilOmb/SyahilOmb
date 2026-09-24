@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sahil</h1>
 <p align="center">
-   <img src="https://komarev.com" alt="Views Counter" />
+   ![](https://komarev.com)
+   
 </p>
 
 🚀 Aspiring Full Stack Developer | Java • Spring Boot • Angular • AI Enthusiast
