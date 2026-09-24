@@ -31,9 +31,8 @@ Tools & Platforms
 - 💬 Ask me about: Full Stack Development, Java frameworks, React practices, and AI integration.
 - ⚡ Fun fact: When I’m not coding, I’m exploring new tech trends or building side projects that challenge me.
 
-<div align="center">
 📊 **GitHub Stats**  
 ![Sahil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SyahilOmb&show_icons=true&theme=radical)
-</div>
+
 
 
