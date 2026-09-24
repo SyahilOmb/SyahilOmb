@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sahil</h1>
 <p align="center">
-[![](https://komarev.com/ghpvc/?username=SyahilOmb&icon=0&color=7)](https://visitcount.itsvg.in)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSyahilOmb&label=Visitors&icon=code-slash&color=%23198754&message=&style=flat)
 </p>
 
 🚀 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
