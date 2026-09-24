@@ -7,9 +7,9 @@
 
 🎓 Computer Science Grad | Completed Full Stack Java Developer Course (3 months, project-based)
 <br>
-<div align="center">
+
 ![](https://streak-stats.demolab.com/?user=SyahilOmb&theme=dark&hide_border=false)
-</div>
+
 <br>
 🛠️ Tech Stack:  
 Languages
@@ -20,9 +20,9 @@ Languages
 Tools & Platforms
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40"/><br>
 
-<div align="center">
+
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SyahilOmb&layout=compact&theme=radical)
-</div>
+
 
 - 🔭 I’m currently working on .......
 - 🌱 I’m currently learning: React , MongoDb 
