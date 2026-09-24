@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sahil</h1>
 <p align="center">
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSyahilOmb&label=Visitors&icon=code-slash&color=%23198754&message=&style=flat)
+![Visitors](https://hitscounter.dev)
 </p>
 
 🚀 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
