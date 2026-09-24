@@ -8,9 +8,8 @@
 🎓 Computer Science Grad | Completed Full Stack Java Developer Course (3 months, project-based)
 <br>
 
-![](https://streak-stats.demolab.com/?user=SyahilOmb&theme=dark&hide_border=false)
 
-🛠️ Tech Stack:  
+🛠️ Tech Stack:  <br>
 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
@@ -32,7 +31,11 @@ Tools & Platforms
 - ⚡ Fun fact: When I’m not coding, I’m exploring new tech trends or building side projects that challenge me.
 
 📊 **GitHub Stats**  
-![Sahil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SyahilOmb&show_icons=true&theme=radical)
+![Sahil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical) <br>
+
+**My Stats**
+
+![](https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false)
 
 
 
